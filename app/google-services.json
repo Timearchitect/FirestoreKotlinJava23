@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "545107207881",
+    "firebase_url": "https://version-control-fe23-a3cfd-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "version-control-fe23-a3cfd",
+    "storage_bucket": "version-control-fe23-a3cfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545107207881:android:f983c1c82f8d07bacdcf18",
+        "android_client_info": {
+          "package_name": "se.gritacademy.firestorekotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq7Ml_RMBIpPlOQ3byardHBLTh5MmG9-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
